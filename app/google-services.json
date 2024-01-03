@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "715567446367",
+    "project_id": "edits-c8a51",
+    "storage_bucket": "edits-c8a51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715567446367:android:8a3cb089426f137193deea",
+        "android_client_info": {
+          "package_name": "com.example.edits"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7FCAs5QVrS_lRIVAy0sbLG_Qm3te9dJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
